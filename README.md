@@ -25,7 +25,7 @@ struct Developer {
 
 Full Stack Web Developer and Systems Engineer specializing in building high-performance applications from the ground up. Passionate about low-level programming, creating zero-dependency solutions, and mastering both Linux and Windows environments.
 
-> "Be yourself; everyone else is already taken." — Oscar Wilde
+> "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ---
 
