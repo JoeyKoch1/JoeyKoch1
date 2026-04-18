@@ -16,7 +16,6 @@ struct Developer {
     char* role = "Full Stack Developer & Systems Engineer";
     char* specialization[] = {"Linux", "Windows", "Low-level Systems"};
     char* languages[] = {"C", "C++", "TypeScript", "JavaScript"};
-    bool coffee = true;
 };
 ```
 
